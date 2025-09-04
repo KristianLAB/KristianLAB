@@ -8,6 +8,6 @@
 -  I’m currently learning **Coding languages like python.py,javascript.js**
 -  Ask me about **Gaming and cars**
 -  Reach me at: **Private messages**
--  Fun fact: **I'm selling cars as my job**
+-  Fun fact: **I'm selling cars as my job while studying**
 
 ---
