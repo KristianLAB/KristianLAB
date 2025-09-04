@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Kristian
+# Hello there 👋, I'm Kristian!
 
 💻 **ICT student**
 
