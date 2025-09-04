@@ -11,3 +11,5 @@
 -  Fun fact: **I'm selling cars as my job while studying**
 
 ---
+
+``` This is the time to start learning!```
